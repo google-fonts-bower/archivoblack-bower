@@ -1,0 +1,17 @@
+{
+    "name": "archivoblack-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/archivoblack-bower.git"
+    },
+    "description": "Archivo Black font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
